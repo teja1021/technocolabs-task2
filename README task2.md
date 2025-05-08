@@ -24,8 +24,9 @@ This project is a responsive and visually appealing web page for the **Annual Ag
 3. Customize the schedule or styles as needed for your own event.
 
 ## Screenshots
-![Wine Festival Schedule Screenshot](screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/12710fd4-9580-4962-a602-1260f68cbdf8)
 
 ---
 
 **Task by Technocolabs Internship Program**
+
